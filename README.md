@@ -2,7 +2,7 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ulasceri.visitor-badge&left_color=red&right_color=green) 
 
-# Fotoğraf filtre ekleme uygulaması ; 
+# Not tutma uygulaması
 ## Proje Özellikleri
 - MVVM Architecture
 - Room Database
